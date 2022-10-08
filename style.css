@@ -1,0 +1,40 @@
+#mainBox{
+    margin: auto;
+    border: 2px solid steelblue;
+    width: 50%;
+    padding: 10px;
+    margin-top: 50px;
+}
+#formDiv{
+    width: 50%;
+    margin: auto;
+}
+#mark {
+    width: 200px;
+    padding: 8px;
+    margin: 10px;
+    font-size: 18px;
+    border-width: 0.5px;
+    border-radius: 5px;
+}
+#btns{
+    width: 50%;
+    margin: auto;
+}
+button{
+    margin:  10px ;
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: steelblue;
+    color: white;
+}
+#rslt{
+    width: 50%;
+    margin: auto;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:red;
+    
+}
